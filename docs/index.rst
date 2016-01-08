@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
    :glob:
 
+   authors
    22
    
 
@@ -24,7 +25,7 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-这是I个测试的页面
+这是I个测试的``页面``
 ==================
-这是I个测试的页面
+这是I个测试的**页面**
 * 这是I个测试的页面
