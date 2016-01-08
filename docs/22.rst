@@ -20,6 +20,6 @@ Or automatically numbered:
 
 Inline Markup
 -------------
-Words can have *emphasis in italics* or be **bold** and you can define
-code samples with back quotes, like when you talk about a command: ``sudo`` 
+Words can have *emphasis in italics* or be 1**bold** and you can define
+code samples with back quotes, like when you talk about a command:``sudo`` 
 gives you super user powers!
