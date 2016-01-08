@@ -12,9 +12,7 @@ Contents:
    :maxdepth: 2
    :glob:
 
-   这是I个测试的页面
    22
-   2233
    
 
 
@@ -27,6 +25,6 @@ Indices and tables
 * :ref:`search`
 
 这是I个测试的页面
-.. 这是I个测试的页面
+==================
 这是I个测试的页面
 * 这是I个测试的页面
